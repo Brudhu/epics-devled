@@ -1,0 +1,2 @@
+device(bo,INST_IO,devGpioBo,"devled")
+registrar( "devLedConstRegister" )
